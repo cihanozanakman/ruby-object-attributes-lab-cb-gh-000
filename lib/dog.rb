@@ -3,11 +3,11 @@ class Dog
 
   end
   def name
-    
+
   end
-  
+
   def breed=
-    
+
   end
 
   def breed
