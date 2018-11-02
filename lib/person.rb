@@ -6,9 +6,9 @@ class Person
 
   end
 
-  def breed=
+  def job=
 
   end
 
-  def breed
+  def job
 end
